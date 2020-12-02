@@ -1,0 +1,11 @@
+{
+    "Discord": {
+        "Webhook": "https://discord.com/api/webhooks/779782662750601266/m_IjOjG0gVrW5nMg7FKTQmFDI6Jq-CgDL-gXittaugossk-mnze3TWM5vqvGXtjw8ML7"
+    },
+    "Skus": [
+        "6432445",
+        "6429440"
+    ],
+    "Interval": 10000,
+    "MongoUrl": "mongodb://liam:90%400fB32@cheesy.garlicbread.dev:30001,cheesy.garlicbread.dev:30002,cheesy.garlicbread.dev:30003/Bestbuy?authSource=admin&replicaSet=dummy-thicc"
+}
